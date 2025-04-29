@@ -26,8 +26,7 @@ This repository contains the implementation of a Zero-Knowledge Proof (ZKP) usin
 ### Step 2: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/f0dor/ZKP-diplomski.git
 ```
 
 ## Running the Code
