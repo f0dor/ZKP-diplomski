@@ -1,0 +1,10 @@
+[package]
+name = "zkp_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bulletproofs = "4.0.0"
+curve25519-dalek-ng = "4.0.0"
+merlin = "3.0.0"
+rand = "0.8"
